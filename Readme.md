@@ -1,6 +1,6 @@
 # NBLite: Minimalistic ClientSide Notebooks
 
-Check it out: https://eduardobonet.gitlab.io/nblite/
+A fork of: https://eduardobonet.gitlab.io/nblite/ for educational purposes.
 
 ![example](./img/example.png)
 
@@ -16,6 +16,9 @@ NBLite parses a notebook, creates the HTML, identifies the depedencies with 60 l
 - [ ] Add repl for exploration
 - [ ] Lines should continue
 - [ ] Better output support (plt.plot(x,y) for example)
+
+### Consideration
+If you use this project, please credit it back to the original author, Eduardo Bonet.
 
 ## Opening local files
 
